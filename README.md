@@ -6,7 +6,7 @@ $ pkg install -y git python
 
 $ git clone https://github.com/technoholicabhi/Scraper.git
 
-$ cd Telegram-Scraper
+$ cd Scraper
 
 Install requierments
 
