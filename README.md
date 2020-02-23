@@ -1,2 +1,0 @@
-# Scraper
-Telegram Members Scrapper
